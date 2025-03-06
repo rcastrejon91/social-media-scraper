@@ -1,0 +1,10 @@
+{
+    "name": "social-media-scraper",
+    "version": "0.1",
+    "main": "main.py",
+    "dockerfile": "Dockerfile",
+    "env": {
+      "PYTHON_VERSION": "3.9"
+    }
+  }
+  
